@@ -8,13 +8,13 @@ https://templatemo.com/tm-583-festava-live
 
 @font-face {
   font-family: melete;
-  src: url("fonts/melete/Melete-Regular.otf") format("opentype");
+  src: url("../fonts/melete/Melete-Regular.otf") format("opentype");
 }
 
 @font-face {
   font-family: melete;
   font-weight: bold;
-  src: url("fonts/melete/Melete-Bold.otf") format("opentype");
+  src: url("../fonts/melete/Melete-Bold.otf") format("opentype");
 }
 
 /*---------------------------------------
